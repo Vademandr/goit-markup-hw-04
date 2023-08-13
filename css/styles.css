@@ -144,10 +144,10 @@ img {
 .menu__list-link:focus {
     color: var(--color-ocean);
 }
-.menu__list-link.current {
+.menu__list-link.page {
     color: var(--color-ocean);
 }
-.menu__list-link.current-page::after{
+.menu__list-link.page::after{
     content: '';
         display: block;
         width: 100%;
