@@ -147,7 +147,7 @@ img {
 .menu__list-link.current {
     color: var(--color-ocean);
 }
-.menu__list-link.current::after{
+.menu__list-link.current-page::after{
     content: '';
         display: block;
         width: 100%;
